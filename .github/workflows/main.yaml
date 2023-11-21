@@ -74,4 +74,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: shichoc/devsecopsdiy:1.0
+        tags: yusyuan/devsecopsdiy:1.0
